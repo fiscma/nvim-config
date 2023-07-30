@@ -58,7 +58,7 @@ M.general = {
     ["7"] = { "/", "search for pattern and go to next occurence" },
     ["ß"] = { "?", "search for pattern and go to previous occurence" },
     ["+"] = { "*", "Go to next occurrece of word under cursor" },
-    ["4"] = { "$", "Go to beginning of line" },
+    ["4"] = { "$", "Go to end of line" },
     ["8"] = { "{", "Go to beginning of paragraph" },
     ["9"] = { "}", "Go to end of paragraph" },
 
