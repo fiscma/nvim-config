@@ -63,10 +63,10 @@ M.general = {
     ["9"] = { "}", "Go to end of paragraph" },
 
     -- Blasphemously remapping vim navigation to WASD
-    ["w"] = { "k", "Up in gaming mode" },
-    ["a"] = { "h", "Left in gaming mode" },
-    ["s"] = { "j", "Down in gaming mode" },
-    ["d"] = { "l", "Right in gaming mode" },
+   -- ["w"] = { "k", "Up in gaming mode" },
+    --["a"] = { "h", "Left in gaming mode" },
+    --["s"] = { "j", "Down in gaming mode" },
+    --["d"] = { "l", "Right in gaming mode" },
 
   },
 
